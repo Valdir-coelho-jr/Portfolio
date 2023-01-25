@@ -155,6 +155,29 @@ h1 span {
     margin-top: 35px;
 }
 
+.cv-english {
+    width: 175px;
+}
+
+.cv-english a {
+    color: white;
+    text-decoration: none;
+}
+
+.cv a {
+    color: white;
+    text-decoration: none;
+}
+
+.green-link {
+    text-decoration: none;
+    color: white;
+}
+
+.green-link:hover {
+    color: green;
+    transition: 0.5s;
+}
 
 section {
     display: flex;
